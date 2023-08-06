@@ -3,4 +3,4 @@ I have always been enthusiastic about new technologies, ideas, and opportunities
 - 👀 I’m interested in MERN Stack Developments.
 - 🌱 I’m currently learning JavaScript, Digital Marketing and Sofware Engineering Related Subjects.
 - 💞️ I’m looking forward to find a Software Developer Position on UAE.
-- 📫 How to reach me ... visit the link ->> www.jafarexplains.com
+- 📫 How to reach me: jafar.madadi76@gmail.com   or   visit the link -> www.jafarexplains.com
