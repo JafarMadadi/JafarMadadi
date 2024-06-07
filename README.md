@@ -5,8 +5,6 @@
 - A Software Developer based in Kabul. I have always been enthusiastic about new technologies, ideas, and opportunities to learn and build; therefore, that brings a bright goal for me to keep me focused on this approach to becoming a software engineer in the future, which got me to learn soft skills such as teamwork, communication, negotiation, and hard skills such as algorithm and data structure, clean code, design patterns, and tests. The trust that I have gotten in different companies has helped me take responsibility for solving the problems of projects.
 
 
-
-<img align='right' src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" width="180">
 <h2> I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 
@@ -14,7 +12,9 @@
 - 📙 I am Learning at **EDX.ORG!** and **UDEMY.COM!**
 - 🎯 Goals: Become Expert in Laravel, ReactJS, NextJS, ExpressJS, AWS and TypeScript
 - ⚡ Fun Fact: I want to learn everything especially AI Prompt Engineering 🤣
-- 🌱 Honestly, I’m currently learning **What I Need** 
+- 🌱 Honestly, I’m currently learning **What I Need**
+  
+<img align='right' src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" width="180">
 
   <a href="https://github.com/JafarMadadi" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/JafarMadadi?label=Github&style=flat"></a>
