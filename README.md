@@ -10,10 +10,10 @@
 
 
 - 🔭 These days I'm working on different kinds of projects!
-- 📙 I am Learning at **EDX.ORG!** and **UDEMY.COM!**
-- 🎯 Goals: Become Expert in Laravel, ReactJS, NextJS, ExpressJS, AWS and TypeScript
+- 📙 I am Learning at **EDX.ORG!** and **UDEMY.COM!**.
+- 🎯 Goals: Become Expert in Laravel, ReactJS, NextJS, ExpressJS, TypeScript and AWS.
 - ⚡ Fun Fact: I want to learn everything especially AI Prompt Engineering 🤣
-- 🌱 Honestly, I’m currently learning **What I Need**
+- 🌱 Honestly, I’m currently learning **What I Need**.
 
   
   <a href="https://github.com/JafarMadadi" target="_blank">
