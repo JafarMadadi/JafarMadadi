@@ -1,5 +1,5 @@
 <!-- welcome message -->
-<h2> Hi there, I am Jafar Madadi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2> 👋 Hi there, I am Jafar Madadi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 
 - A Software Developer based in Kabul. I have always been enthusiastic about new technologies, ideas, and opportunities to learn and build; therefore, that brings a bright goal for me to keep me focused on this approach to becoming a software engineer in the future, which got me to learn soft skills such as teamwork, communication, negotiation, and hard skills such as algorithm and data structure, clean code, design patterns, and tests. The trust that I have gotten in different companies has helped me take responsibility for solving the problems of projects.
@@ -12,9 +12,9 @@
 
 - 🔭 These days I'm working on different kinds of projects!
 - 📙 I am currently Learning at **EDX.ORG!** and **UDEMY.COM!**
-- 🌱 I’m currently learning **What i Need** and AI Prompt Engineering
 - 🎯 Goals: Become Expert in ReactJS, NextJS, ExpressJS, AWS and TypeScript
 - ⚡ Fun Fact: I want to learn everything 🤣
+- 🌱 I’m currently learning **What i Need** and AI Prompt Engineering 🤣
 
   <a href="https://github.com/JafarMadadi" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/JafarMadadi?label=Github&style=flat"></a>
