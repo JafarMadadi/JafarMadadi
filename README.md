@@ -6,15 +6,15 @@
 
 
 
-<img align='right' src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" width="150">
+<img align='right' src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" width="180">
 <h2> I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 
 - 🔭 These days I'm working on different kinds of projects!
-- 📙 I am currently Learning at **EDX.ORG!** and **UDEMY.COM!**
-- 🎯 Goals: Become Expert in ReactJS, NextJS, ExpressJS, AWS and TypeScript
-- ⚡ Fun Fact: I want to learn everything 🤣
-- 🌱 I’m currently learning **What i Need** and AI Prompt Engineering 🤣
+- 📙 I am Learning at **EDX.ORG!** and **UDEMY.COM!**
+- 🎯 Goals: Become Expert in Laravel, ReactJS, NextJS, ExpressJS, AWS and TypeScript
+- ⚡ Fun Fact: I want to learn everything especially AI Prompt Engineering 🤣
+- 🌱 Honestly, I’m currently learning **What I Need** 
 
   <a href="https://github.com/JafarMadadi" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/JafarMadadi?label=Github&style=flat"></a>
