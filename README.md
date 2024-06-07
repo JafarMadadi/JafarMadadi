@@ -6,7 +6,7 @@
 
 
 <h2> I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-<img align='right' src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" width="160">
+<img align='right' src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" width="180">
 
 
 - 🔭 These days I'm working on different kinds of projects!
