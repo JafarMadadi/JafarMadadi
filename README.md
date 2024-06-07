@@ -1,5 +1,5 @@
 <!-- welcome message -->
-<h2> 👋 Hi there, I am Jafar Madadi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2>Hi there, I am Jafar Madadi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 
 - A Software Developer based in Kabul. I have always been enthusiastic about new technologies, ideas, and opportunities to learn and build; therefore, that brings a bright goal for me to keep me focused on this approach to becoming a software engineer in the future, which got me to learn soft skills such as teamwork, communication, negotiation, and hard skills such as algorithm and data structure, clean code, design patterns, and tests. The trust that I have gotten in different companies has helped me take responsibility for solving the problems of projects.
@@ -7,7 +7,7 @@
 
 
 <img align='right' src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" width="230">
-<h2> I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
+<h2> I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 
 - 🔭 These days I'm working on different kinds of projects!
