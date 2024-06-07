@@ -6,6 +6,7 @@
 
 
 <h2> I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<img align='right' src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" width="160">
 
 
 - 🔭 These days I'm working on different kinds of projects!
@@ -13,9 +14,8 @@
 - 🎯 Goals: Become Expert in Laravel, ReactJS, NextJS, ExpressJS, AWS and TypeScript
 - ⚡ Fun Fact: I want to learn everything especially AI Prompt Engineering 🤣
 - 🌱 Honestly, I’m currently learning **What I Need**
-  
-<img align='right' src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" width="180">
 
+  
   <a href="https://github.com/JafarMadadi" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/JafarMadadi?label=Github&style=flat"></a>
   
