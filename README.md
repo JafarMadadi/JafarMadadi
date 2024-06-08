@@ -24,7 +24,7 @@
 
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![Jafar Madadi's github stats](https://github-readme-stats.vercel.app/api?username=JafarMadadi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JafarMadadi/github-readme-stats)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JafarMadadi&layout=compact)|
+|[![Jafar Madadi's github stats](https://github-readme-stats.vercel.app/api?username=JafarMadadi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JafarMadadi/github-readme-stats)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)|
 
 
 
