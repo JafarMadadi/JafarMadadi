@@ -22,10 +22,6 @@
   <a href="https://github.com/JafarMadadi" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=JafarMadadi&label=Views&color=brightgreen&style=flat" alt="JafarMadadi" /></a>
 
-|GITHUB STATS|
-|:---:|
-|[![Jafar Madadi's github stats](https://github-readme-stats.vercel.app/api?username=JafarMadadi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JafarMadadi/github-readme-stats)|
-
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me
 
