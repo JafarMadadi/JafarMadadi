@@ -22,10 +22,9 @@
   <a href="https://github.com/JafarMadadi" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=JafarMadadi&label=Views&color=brightgreen&style=flat" alt="JafarMadadi" /></a>
 
-|GITHUB STATS|MOST USED LANGUAGES|
-|:---:|:---:|
-|[![Jafar Madadi's github stats](https://github-readme-stats.vercel.app/api?username=JafarMadadi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JafarMadadi/github-readme-stats)|![Top Langs](https://github-readme-stats-rust-three.vercel.app/api/top-langs/?username=JafarMadadi&hide=Rich%20Text&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/JafarMadadi/github-readme-stats)|
-
+|GITHUB STATS|
+|:---:|
+|[![Jafar Madadi's github stats](https://github-readme-stats.vercel.app/api?username=JafarMadadi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JafarMadadi/github-readme-stats)|
 
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me
