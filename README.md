@@ -14,7 +14,6 @@
 - 🎯 Goals: Become Expert in Laravel, ReactJS, NextJS, ExpressJS, TypeScript and AWS.
 - ⚡ Fun Fact: I want to learn everything especially AI Prompt Engineering 🤣
 - 🌱 Honestly, I’m currently learning **What I Need**.
-
   
   <a href="https://github.com/JafarMadadi" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/JafarMadadi?label=Github&style=flat"></a>
