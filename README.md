@@ -9,6 +9,7 @@
 <img align='right' src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" width="180">
 
 
+
 - 🔭 These days I'm working on different kinds of projects!
 - 📙 I am Learning at **EDX.ORG!** and **UDEMY.COM!**.
 - 🎯 Goals: Become Expert in Laravel, ReactJS, NextJS, ExpressJS, TypeScript and AWS.
